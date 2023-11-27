@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Nxie_Module")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Nxie_Module.lib")(options "")(descr ""))
+  (lib (name "Test-Board-V3-rescue")(type "KiCad")(uri "${KIPRJMOD}/Test-Board-V3-rescue.kicad_sym")(options "")(descr ""))
+)
